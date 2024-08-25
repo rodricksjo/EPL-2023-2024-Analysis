@@ -12,7 +12,7 @@ home_team_goals: The goals scored by home team <br>
 away_team_goals: The goals scored by away team <br>
 
 #**From the dataset the following things were noticed**:<br>
-51.6 % of the matches were played in 2023 while 48.4 % were played in 2024, hence we can say slightly more than half of the matches were played in 2023 <br>
+51.6 % of the matches were played in 2023 while **48.4%** were played in 2024, hence we can say slightly more than half of the matches were played in 2023 <br>
 Arsenal and Manchester City won 28 each <br>
 Sheffield United manage to win only 3 matches out of 38 <br>
 Brighton & Hove Albion had 12 matches resulting in draw which was the maximum by any team <br>
@@ -25,8 +25,8 @@ Sheffield United had won the least number of Away matches by any team which was 
 Manchester City scored the most number of goals which was 96 which is 2.52 per match <br>
 Sheffield United scored the least number of goals which was 35 which is 0.92 per match <br>
 Arsenal conceded the least number of goals which was 29 which is 0.76 per match <br>
-Sheffield United conceded the most number of goals which was 104 which is 2.73 per match <br>
-Arsenal and Manchester City had the best goal difference of +62 <br> 
-Sheffield United had the worst goal difference of -69 <br>
-Manchester City scored 7.7 % of the PL goals last season <br>
-Sheffield United scored 2.8 % of the PL goals last season <br>
+Sheffield United conceded the most number of goals which was 104 which is **2.73** per match <br>
+Arsenal and Manchester City had the best goal difference of **+62** <br> 
+Sheffield United had the worst goal difference of **-69** <br>
+Manchester City scored **7.7** % of the PL goals last season <br>
+Sheffield United scored **2.8 %** of the PL goals last season <br>
